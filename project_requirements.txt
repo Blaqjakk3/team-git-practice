@@ -5,6 +5,10 @@
 4. Real time updates
 5. In-depth analytics dashboard
 
+
+Samuel - User Friendly Interface
+I will implement this by applying great colors and contrast that will be appealing to users. The right color blend adds to the user friendly nature of the program. I will also use clear layouts, easy to read fonts, and understandable navigation to achieve this requirement.
+
 Danny - Bug tracking
 Here is a structure approach to track bugs effectively;
 Choose a bug tracking tool; example Github issues, Budzilla and Trello
@@ -13,3 +17,4 @@ Prioritise and categorize bugs
 Assign and track progress of the tool
 Use git for issues tracking
 Verify and clone issues
+

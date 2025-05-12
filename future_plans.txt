@@ -1,7 +1,10 @@
 #Experimental features
 
+Offline Mode: Limited functionality without internet access.
 
-AI-Powered Suggestions: e.g. content, settings, or personalization.
+
+
+
 
 
 

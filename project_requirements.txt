@@ -4,3 +4,6 @@
 3. Bug tracking
 4. Real time updates
 5. In-depth analytics dashboard
+
+Samuel - User Friendly Interface
+I will implement this by applying great colors and contrast that will be appealing to users. The right color blend adds to the user firendly nature of the program. I will also use clear layouts, easy to read fonts, and understandable navigation to achieve this requirement.

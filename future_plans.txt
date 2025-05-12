@@ -1,7 +1,7 @@
 #Experimental features
 
 
-AI-Powered Suggestions: e.g. content, settings, or personalization.
+
 
 
 

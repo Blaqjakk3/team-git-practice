@@ -2,7 +2,9 @@
 
 
 
-Voice Command Input: Interact using speech.
+AI-Powered Suggestions: e.g. content, settings, or personalization.
+
+
 
 
 

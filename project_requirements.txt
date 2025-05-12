@@ -1,0 +1,6 @@
+# Project Requirements
+1. Responsive design
+2. User friendly interface
+3. Bug tracking
+4. Real time updates
+5. In-depth analytics dashboard

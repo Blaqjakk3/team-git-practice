@@ -7,7 +7,7 @@
 
 Danny - Bug tracking
 Here is a structure approach to track bugs effectively;
-Choose a bug tracking tool; examole Github issues, Budzilla and Trello
+Choose a bug tracking tool; example Github issues, Budzilla and Trello
 Define a clear bug reporting format 
 Prioritise and categorize bugs 
 Assign and track progress of the tool

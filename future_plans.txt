@@ -1,6 +1,11 @@
 #Experimental features
 
-Offline Mode: Limited functionality without internet access.
+
+
+Voice Command Input: Interact using speech.
+
+
+
 
 
 

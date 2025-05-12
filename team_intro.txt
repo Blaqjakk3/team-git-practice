@@ -1,7 +1,11 @@
 # Our Team Introduction
 
-##Team Favorite
+
+##Team Favorites
 Danny - HTML and C++ - Simple to  understand and evaluate data 
+Samuel - Python - Simple to learn and understand. Many already available functions to do a lot.
+
+
 
 Samuel Bedi - Engineer ( Repo Owner) - Reading, gaming, watching movies; these are just a few of my hobbies.
 Daniel Adu Carlson- (Collaborator) - Research, gaming reading and football among them are a few of mu hobbies
